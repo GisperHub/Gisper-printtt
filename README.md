@@ -1,1 +1,2 @@
-# Gisper-printtt
+USERNAME : s8dup6
+PASS : Gispereieiz
